@@ -1,0 +1,29 @@
+{
+  "name": "null-safety-tests",
+  "version": "0.1.0",
+  "description": "Tests null-safety",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/jsdom": "^12.2.3",
+    "jest": "^24.7.1",
+    "jsdom": "^14.0.0",
+    "prettier": "1.16.4",
+    "rimraf": "^2.6.3",
+    "ts-jest": "^24.0.2",
+    "tslint": "^5.15.0",
+    "tslint-config-prettier": "1.18.0",
+    "tslint-plugin-prettier": "2.0.1",
+    "typescript": "^3.4.2"
+  },
+  "keywords": [
+    "null-safety",
+    "test"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "ponponenr"
+  }
+}
