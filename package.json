@@ -9,7 +9,7 @@
     "@types/jest": "^24.0.11",
     "@types/jsdom": "^12.2.3",
     "jest": "^24.7.1",
-    "jsdom": "^14.1.0",
+    "jsdom": "^16.5.0",
     "null-safety": "^1.0.0",
     "prettier": "1.16.4",
     "rimraf": "^2.6.3",
